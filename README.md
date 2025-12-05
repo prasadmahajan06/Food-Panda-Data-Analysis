@@ -30,7 +30,7 @@ The dataset contains FoodPanda order logs with the following common fields:
 - City
 
 🗂️**Data Source**
-- Primary Source: Food Panda Analysis Dataset <a href =>Download Dataset Here</a>
+- Primary Source: Food Panda Analysis Dataset <a href = "https://github.com/prasadmahajan06/Food-Panda-Data-Analysis/blob/main/Foodpanda%20Analysis%20Dataset.csv">Download Dataset Here</a>
 
 🧰 **Tech Stack**
 This project uses:
@@ -296,9 +296,12 @@ plt.ylabel('loyalty points')
 plt.show()
 
 📈 **Key Insights (Example)**
-(Adjust based on your actual findings)
-- Peak ordering time is between 6 PM – 9 PM
-- Fast-food and Asian cuisine are the most ordered categories
-- Average delivery time increases during weekends
-- 20% of customers contribute to 60% of total revenue
-- Cancellation rates are higher during heavy rain or peak hours
+- Age distribution for Orders in More for Teenagers
+- Hyderabad, Bengaluru and Kolkata are some of the Top Cities by Order
+- Pasta, Sandwich, Pizza, Fries and Burgers are Top Dishes sold among cities
+- Italian Category Food is mostly Preferred by customers
+- Preferred Payment Method is Cash
+
+🙋‍♂️ Author
+- Created by: Prasad Mahajan
+- GitHub: prasadmahajan06  
